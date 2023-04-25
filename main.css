@@ -20,8 +20,11 @@ header img{
     height: 36px;
     margin-right: 16px;
 }
+
+
 header h1 {
-    font-size: 40px;
+    margin-left: 150px;
+    font-size: 30px;
     font-weight: bold;
 }
 .container{
@@ -56,6 +59,7 @@ form button {
     border: none;
     cursor: pointer;
     padding: 8px;
+    margin-left: 8px;
 }
 
 table {
